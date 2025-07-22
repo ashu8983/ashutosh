@@ -1,50 +1,52 @@
-👋 Hi, I'm Ashutosh Mishra
-Welcome to my GitHub! I'm a passionate developer focused on blockchain and full-stack web technologies. I love building impactful software and aspire to create innovative solutions through entrepreneurship.
+# 👋 Hi, I'm Ashutosh Mishra
 
-👨‍💻 About Me
-🧠 Blockchain Developer — I specialize in developing smart contracts, decentralized applications (dApps), and Web3 integrations.
+Welcome to my GitHub! I'm a passionate developer with a strong focus on **blockchain** and **full-stack web development**. I love building impactful software and aspire to drive meaningful change through innovation and entrepreneurship.
 
-🌐 Full Stack Web Developer — Skilled in both front-end and back-end development using modern technologies.
+---
 
-🚀 Co-founder at AerthX — We're on a mission to transform industries through the power of blockchain.
+## 👨‍💻 About Me
 
-💡 Aspiring Entrepreneur — Driven by innovation and the desire to create meaningful tech solutions.
+- 🧠 **Blockchain Developer**  
+  I specialize in building secure smart contracts, decentralized applications (dApps), and integrating Web3 technologies.
 
-🛠️ Tech Stack
-Languages:
+- 🌐 **Full Stack Web Developer**  
+  Proficient in both frontend and backend development using modern tech stacks and scalable architectures.
 
-JavaScript / TypeScript
+- 🚀 **Co-founder @ [AerthX](#)**  
+  Leading a mission-driven startup harnessing the power of blockchain to transform industries.
 
-Solidity
+- 💡 **Aspiring Entrepreneur**  
+  I’m passionate about solving real-world problems with clean, efficient, and innovative tech.
 
-Python
+---
 
-Frameworks & Libraries:
+## 🛠️ Tech Stack
 
-React, Next.js
+**Languages**  
+`JavaScript` | `TypeScript` | `Solidity` | `Python`
 
-Node.js, Express
+**Frameworks & Libraries**  
+`React` | `Next.js` | `Node.js` | `Express` | `Hardhat` | `Ethers.js` | `Web3.js`
 
-Hardhat, Ethers.js, Web3.js
+**Databases & Tools**  
+`MongoDB` | `PostgreSQL` | `Git` | `Docker` | `CI/CD`
 
-Databases & Dev Tools:
+---
 
-MongoDB, PostgreSQL
+## 📈 Current Goals
 
-Git, Docker, CI/CD
+- Build scalable, secure, and user-friendly dApps  
+- Lead **AerthX** toward sustainable growth and impact  
+- Contribute to open-source blockchain projects  
+- Collaborate and grow with the global dev community
 
-📈 Current Goals
-Build scalable and secure dApps
+---
 
-Lead AerthX to success as a startup founder
+## 📫 Let’s Connect
 
-Contribute to open-source blockchain projects
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-mishra-676032283/)
+- 📧 Email: **ashu.aam8983@gmail.com**
 
-Collaborate, learn, and grow with the dev community
+---
 
-📫 Let's Connect
-🔗 LinkedIn
-
-📧 Email: ashu.aam8983@gmail.com
-
-Let’s build the decentralized future together! 🚀
+**Let’s build the decentralized future together!** 🚀
